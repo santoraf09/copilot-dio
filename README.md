@@ -41,8 +41,3 @@ Projeto criado como parte do desafio da plataforma DIO. O objetivo foi desenvolv
 3. Configure os tópicos conforme o fluxo apresentado
 4. Teste seu copiloto e publique!
 
----
-
-## 🚀 Entrega
-
-Este repositório está pronto para ser enviado como entrega final do desafio da DIO.
