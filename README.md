@@ -1,37 +1,48 @@
-# 🤖 Copiloto com Fluxo de Conversa Personalizado - Microsoft Copilot Studio
 
-Projeto desenvolvido como parte do desafio da DIO: **"Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio"**.
+# 🤖 Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
 
-## 🧠 Objetivo
+Projeto criado como parte do desafio da plataforma DIO. O objetivo foi desenvolver um copiloto com fluxo de conversa personalizado, utilizando IA generativa.
 
-Criar um agente virtual com IA generativa, utilizando o Microsoft Copilot Studio, capaz de responder a perguntas com base em fluxos personalizados e dados contextuais.
+---
 
-## 🔧 Funcionalidades implementadas
+## ✅ Funcionalidades Implementadas
 
-- ✅ Criação de agente personalizado chamado **Agente da DIO**
-- ✅ Tópico 1: *"O que é o Microsoft Copilot Studio?"*
-- ✅ Tópico 2: *"O que são respostas generativas?"*
-- ✅ Uso de IA generativa (Activity.Text como entrada)
-- ✅ Ativação da opção *"Permitir que a IA use seus próprios conhecimentos gerais"*
-- ✅ Mensagens personalizadas de latência
-- ✅ Testes realizados com sucesso via interface de chat
-- ✅ Prints anexados com o passo a passo
+- Criação de um agente com identidade própria
+- Desenvolvimento de múltiplos tópicos personalizados
+- Uso de respostas generativas com IA
+- Personalização da mensagem de erro
+- Testes de funcionamento dentro do ambiente do Copilot Studio
 
-## 🧪 Testes
+---
 
-Os tópicos foram testados utilizando perguntas reais, como:
+## 📸 Capturas de Tela do Projeto
 
-- "O que são respostas generativas?"
-- "Como publicar meu copiloto?"
+### 1. Criação do Agente no Copilot Studio
+![Criação do agente](prints/criacao-agente.png)
 
-As respostas foram geradas com base em IA, consultando fontes como a documentação oficial da Microsoft Learn.
+### 2. Edição dos Tópicos e Gatilhos
+![Tópico com gatilho](prints/topico-gatilho.png)
 
-## 📸 Evidências
+### 3. Configuração das Respostas Generativas
+![Respostas generativas](prints/resposta-generativa.png)
 
-Todas as etapas do desafio foram documentadas com prints e estão disponíveis neste repositório.
+### 4. Teste do Copiloto no ambiente do Studio
+![Teste do Copiloto](prints/teste-copiloto.png)
 
-## 📚 Tecnologias
+### 5. Personalização da Mensagem de Erro
+![Mensagem de erro personalizada](prints/mensagem-erro.png)
 
-- Microsoft Copilot Studio
-- Azure OpenAI (internamente na plataforma)
-- GitHub para versionamento
+---
+
+## 📁 Como Executar
+
+1. Acesse o [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/)
+2. Crie um novo agente com base no conteúdo demonstrado
+3. Configure os tópicos conforme o fluxo apresentado
+4. Teste seu copiloto e publique!
+
+---
+
+## 🚀 Entrega
+
+Este repositório está pronto para ser enviado como entrega final do desafio da DIO.
